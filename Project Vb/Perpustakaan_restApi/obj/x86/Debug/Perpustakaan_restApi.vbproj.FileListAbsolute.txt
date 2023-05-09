@@ -1,0 +1,16 @@
+C:\Users\hp\AppData\Local\Temporary Projects\Perpustakaan_restApi\bin\Debug\Perpustakaan_restApi.exe
+C:\Users\hp\AppData\Local\Temporary Projects\Perpustakaan_restApi\bin\Debug\Perpustakaan_restApi.pdb
+C:\Users\hp\AppData\Local\Temporary Projects\Perpustakaan_restApi\bin\Debug\Perpustakaan_restApi.xml
+C:\Users\hp\AppData\Local\Temporary Projects\Perpustakaan_restApi\obj\x86\Debug\Perpustakaan_restApi.Form1.resources
+C:\Users\hp\AppData\Local\Temporary Projects\Perpustakaan_restApi\obj\x86\Debug\Perpustakaan_restApi.Resources.resources
+C:\Users\hp\AppData\Local\Temporary Projects\Perpustakaan_restApi\obj\x86\Debug\Perpustakaan_restApi.vbproj.GenerateResource.Cache
+C:\Users\hp\AppData\Local\Temporary Projects\Perpustakaan_restApi\obj\x86\Debug\Perpustakaan_restApi.exe
+C:\Users\hp\AppData\Local\Temporary Projects\Perpustakaan_restApi\obj\x86\Debug\Perpustakaan_restApi.xml
+C:\Users\hp\AppData\Local\Temporary Projects\Perpustakaan_restApi\obj\x86\Debug\Perpustakaan_restApi.pdb
+C:\Users\hp\AppData\Local\Temporary Projects\Perpustakaan_restApi\bin\Debug\Newtonsoft.Json.dll
+C:\Users\hp\AppData\Local\Temporary Projects\Perpustakaan_restApi\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\hp\AppData\Local\Temporary Projects\Perpustakaan_restApi\bin\Debug\Newtonsoft.Json.xml
+C:\Users\hp\AppData\Local\Temporary Projects\Perpustakaan_restApi\obj\x86\Debug\Perpustakaan_restApi.vbprojResolveAssemblyReference.cache
+D:\DATA KULIAH DELIYA SYAFA\Visual Studio 2010\Perpustakaan_restApi\Perpustakaan_restApi\obj\x86\Debug\Perpustakaan_restApi.exe
+D:\DATA KULIAH DELIYA SYAFA\Visual Studio 2010\Perpustakaan_restApi\Perpustakaan_restApi\obj\x86\Debug\Perpustakaan_restApi.xml
+D:\DATA KULIAH DELIYA SYAFA\Visual Studio 2010\Perpustakaan_restApi\Perpustakaan_restApi\obj\x86\Debug\Perpustakaan_restApi.pdb
